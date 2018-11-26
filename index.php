@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Book-like page turning</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
